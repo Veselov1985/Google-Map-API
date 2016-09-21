@@ -1,0 +1,70 @@
+
+ html, body {
+  height: 100%;
+   margin: 0;
+    padding: 0; }
+     
+   #map {
+margin-top:20px;
+width:900px;
+height:600px;"
+border:2px solid black;
+margin-left:auto;
+margin-right:auto;
+}
+
+.form {
+	display:block;
+margin-top:40px;
+ margin-left:35%;
+
+
+}
+
+#input {
+	width: 300px;
+	height: 30px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid #cecece;
+	background: #F6F6f6;
+	border-radius: 8px;
+	margin-top:10px;
+	text-align: center;
+	color:red;
+	font-size:20px;
+}
+
+#input:hover {
+border:2px  solid black;
+background-color:blue;
+
+}
+
+
+textarea {
+
+    width: auto;
+
+	background: #f6f6f6;
+	border: 1px solid #cecece;
+	border-radius: 8px 0 0 0;
+	padding: 8px 0 8px 10px;
+}
+
+/*
+
+img[src="https://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png"] {
+left:0px !important;
+top: 0px !important;
+display: block ;
+-moz-box-sizing: border-box ;
+ box-sizing: border-box  ;
+background: url("1.jpg") no-repeat ; 
+ width: 13px ; 
+height: 13px ;
+padding-left:13px ;   
+
+}
+
+*/
